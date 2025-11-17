@@ -60,4 +60,8 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![Uploading WhatsApp Image 2025-11-17 at 19.30.29_62e79c83.jpg…]()
+
+---
+
 ## Result
