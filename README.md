@@ -52,6 +52,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 📊 OBSERVATION AND CALCULATION
 
+- 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
@@ -59,9 +60,8 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![Uploading image.png…]()
 
-![Uploading WhatsApp Image 2025-11-17 at 19.30.29_62e79c83.jpg…]()
-
----
 
 ## Result
+The mode characteristics of a optic fiber is found to be 5 modes.
